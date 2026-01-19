@@ -4,13 +4,8 @@ A powerful and interactive **Streamlit web application** that analyzes WhatsApp 
 
 ---
 
-## 🚀 Live Demo
-👉 *(Add your deployed Streamlit app link here once deployed)*
-
----
-
 ## 🎥 Project Demo Video
-📽️ **Watch here:** *(Add YouTube / Drive / LinkedIn video link)*  
+📽️ **Watch here:** *[(https://drive.google.com/drive/folders/1ZRoShDglNFtJiwULoHakuwvDLyE1GiP3?usp=sharing)]*  
 
 > The video demonstrates:
 > - Uploading WhatsApp chat file  
@@ -70,16 +65,6 @@ A powerful and interactive **Streamlit web application** that analyzes WhatsApp 
 - Chat comparison feature
 - Dark mode UI
 - Media analysis support
-
----
-
-## 👨‍🎓 Developed By
-
-**Paramita**  
-🎓 Machine Learning Enthusiast | Python Developer  
-
-- 🔗 GitHub: https://github.com/your-username  
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
 
 ---
 
