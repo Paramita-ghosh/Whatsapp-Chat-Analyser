@@ -5,7 +5,7 @@ A powerful and interactive **Streamlit web application** that analyzes WhatsApp 
 ---
 
 ## 🎥 Project Demo Video
-📽️ **Watch here:** *[(https://drive.google.com/drive/folders/1ZRoShDglNFtJiwULoHakuwvDLyE1GiP3?usp=sharing)]*  
+📽️ **Watch here:** *[(https://drive.google.com/file/d/1c0MtUmsigab-T7H_-P45onnpZ51Gb-lq/view?usp=sharing)]*  
 
 > The video demonstrates:
 > - Uploading WhatsApp chat file  
